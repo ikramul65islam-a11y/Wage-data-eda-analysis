@@ -27,6 +27,3 @@ This project performs Exploratory Data Analysis (EDA) on wage data to understand
 - `wage_eda.ipynb` → Full analysis notebook
 - `wage.xlsx` → Dataset
 - `Wage_EDA.pdf` → Detailed report
-
-## 🚀 Conclusion
-This project demonstrates strong data analysis, statistical modeling, and visualization skills using real-world data.
